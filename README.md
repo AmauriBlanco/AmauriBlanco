@@ -7,7 +7,7 @@
 
 ## Skills 
 
-**HTML5**
+**HTML**
 
 
 
