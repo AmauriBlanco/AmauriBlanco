@@ -5,8 +5,8 @@
 - looking for internship opportunity.:student:
 
 
-### Skills :
-_underscores_
+## Skills :
+
 
 
 
