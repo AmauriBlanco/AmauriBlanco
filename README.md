@@ -7,7 +7,9 @@
 
 ## Skills 
 
-**HTML**
+> <img src="https://img.icons8.com/color/58/000000/html-5--v1.png"/>
+> <img src="https://img.icons8.com/color/58/000000/css3.png"/>
+> <img src="https://img.icons8.com/color/58/000000/javascript.png"/>
 
 
 
