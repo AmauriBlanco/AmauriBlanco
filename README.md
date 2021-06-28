@@ -20,7 +20,7 @@
 > <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 
 ## Profile & Contact
-> [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/amauriblanco/)      [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](blancoamauri@gmail.com)
+> [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/amauriblanco/)      [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:blancoamauri@gmail.com)
 
 
 
