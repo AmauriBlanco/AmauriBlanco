@@ -12,14 +12,17 @@
 > <img src="https://img.icons8.com/color/58/000000/css3.png"/>
 > <img src="https://img.icons8.com/color/58/000000/javascript.png"/>
 > <img src="https://img.icons8.com/color/48/000000/git.png"/>
+> <img src="https://img.icons8.com/color/50/000000/python.png"/>
 
 ## Learning Skills
+
 > <img src="https://img.icons8.com/officel/58/000000/php-logo.png"/>
 > <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 > <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> 
 > <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 
 ## Profile & Contact
+
 > [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/amauriblanco/)      [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:blancoamauri@gmail.com)
 
 
